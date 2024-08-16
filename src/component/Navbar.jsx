@@ -2,6 +2,9 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
+//   const userData = JSON.parse(localStorage.getItem("user"));
+// const logOut = localStorage.getItem("user")
+  
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
